@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "590091208411",
+    "project_id": "quickfill-b1d71",
+    "storage_bucket": "quickfill-b1d71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590091208411:android:7c733d357f14ac5156aefe",
+        "android_client_info": {
+          "package_name": "com.calletic.quickfillcustomer.quickfillcustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590091208411-v7evij92vmv9s38j37rpkp025fqjp1bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX3dVx5A5TEV-b9CbWAsih_-RBsBuwQSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590091208411-7urk8718uhgp65p4uicgplkbqlqnesve.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590091208411-2erqvn7uhfl91cg6jutb8t3an1b4snn4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.newecom.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
